@@ -1,0 +1,9 @@
+<xml>
+    <ToUserName>1</ToUserName>
+    <FromUserName>2</FromUserName>
+    <CreateTime>3</CreateTime>
+    <MsgType>4</MsgType>
+    <Content>5</Content>
+    <Content>6</Content>
+    <FuncFlag>0</FuncFlag>
+</xml>
